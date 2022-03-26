@@ -41,3 +41,6 @@ function TupleToObject(arr) {
 >   - 3.1 arr的每一项 item ===> P
 >   - 3.2 arr的每一项赋值给obj对象的键 obj[item] = item ====>  [P in T[number]] :
 > 4. 返回一个对象  ====> { [P in T[number]] : P }
+> 5. 最终结果: type TupleToObject<T extends readonly (string | symbol | number)[]> = {
+  [P in T[number]] : P
+}
