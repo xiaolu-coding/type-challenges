@@ -2,7 +2,7 @@ import { Equal, Expect } from '@type-challenges/utils'
 // as const 成为字面量类型常量，不能改变
 const tuple = ['tesla', 'model 3', 'model X', 'model Y'] as const
 
-
+// type s = typeof tuple
 // type r = readonly ["tesla", "model 3", "model X", "model Y"]
 // type r = typeof tuple
 // 1.字面量类型
