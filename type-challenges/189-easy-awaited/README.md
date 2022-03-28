@@ -2,4 +2,5 @@
 
 比如：Promise<ExampleType>，请你返回 ExampleType 类型。
 
+
 这个挑战来自于 @maciejsikora 的文章：original article
