@@ -4,7 +4,7 @@
 
 ## easy
 
-[<font size=4 color=Bisque>4. easy-pick</font>](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/4-easy-pick)  
+[4. easy-pick](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/4-easy-pick)  
 [7. easy-readonly](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/7-easy-readonly)  
 [11. easy-tuple-to-object](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/11-easy-tuple-to-object)  
 [14. easy-first](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/14-easy-first)  
@@ -16,6 +16,8 @@
 [898. easy-includes](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/898-easy-includes)  
 [3057. easy-push](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/3057-easy-push)  
 [3060. easy-unshift](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/3060-easy-unshift)  
-[3312. easy-parameters](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/3312-easy-parameters)
+[3312. easy-parameters](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/3312-easy-parameters)  
 
 ## medium
+
+[2. medium-return-type](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/2-medium-return-type)  
