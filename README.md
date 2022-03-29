@@ -2,9 +2,9 @@
 
 练习ts类型体操
 
-## 已完成的题目
+## easy
 
-[4. easy-pick](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/4-easy-pick)  
+[<table><tr><td bgcolor=b><font size=4 color=Bisque>4. easy-pick</font></td></tr></table>](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/4-easy-pick)  
 [7. easy-readonly](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/7-easy-readonly)  
 [11. easy-tuple-to-object](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/11-easy-tuple-to-object)  
 [14. easy-first](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/14-easy-first)  
@@ -17,3 +17,5 @@
 [3057. easy-push](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/3057-easy-push)  
 [3060. easy-unshift](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/3060-easy-unshift)  
 [3312. easy-parameters](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/3312-easy-parameters)
+
+## medium
