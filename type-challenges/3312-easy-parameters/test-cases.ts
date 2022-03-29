@@ -13,3 +13,5 @@ type cases = [
   Expect<Equal<MyParameters<typeof bar>, [boolean, {a: 'A'}]>>,
   Expect<Equal<MyParameters<typeof baz>, []>>,
 ]
+
+// 获取函数的全部参数类型，以 元组类型

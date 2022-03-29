@@ -16,3 +16,4 @@
 [898. easy-includes](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/898-easy-includes)  
 [3057. easy-push](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/3057-easy-push)  
 [3060. easy-unshift](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/3060-easy-unshift)  
+[3312. easy-parameters](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/3312-easy-parameters)
