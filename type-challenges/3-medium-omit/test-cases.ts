@@ -5,6 +5,7 @@ type cases = [
   Expect<Equal<Expected2, MyOmit<Todo, 'description' | 'completed'>>>
 ]
 
+
 interface Todo {
   title: string
   description: string

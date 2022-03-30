@@ -21,3 +21,4 @@
 ## medium
 
 [2. medium-return-type](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/2-medium-return-type)  
+[3. medium-omit](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/3-medium-omit)  
