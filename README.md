@@ -24,5 +24,6 @@
 [3. medium-omit](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/3-medium-omit)  
 [8. medium-readonly-2](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/8-medium-readonly-2)  
 [9. medium-deep-readonly](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/9-medium-deep-readonly)  
+[12. medium-chainable-options](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/12-medium-chainable-options)  
 
 
