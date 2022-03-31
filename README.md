@@ -26,5 +26,5 @@
 [9. medium-deep-readonly](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/9-medium-deep-readonly)  
 [12. medium-chainable-options](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/12-medium-chainable-options)  
 [15. medium-last](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/15-medium-last)  
-
+[16. medium-pop](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/16-medium-pop)  
 
