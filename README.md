@@ -31,6 +31,8 @@
 [62. medium-type-lookup](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/62-medium-type-lookup)  
 [106. medium-trimleft](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/106-medium-trimleft)  
 [108. medium-trim](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/108-medium-trim)  
+[110. medium-capitalize](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/110-medium-capitalize)  
+
 
 
 
