@@ -33,6 +33,8 @@
 [108. medium-trim](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/108-medium-trim)  
 [110. medium-capitalize](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/110-medium-capitalize)  
 [116. medium-replace](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/116-medium-replace)  
+[119. medium-replaceall](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/119-medium-replaceall)  
+
 
 
 
