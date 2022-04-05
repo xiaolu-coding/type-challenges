@@ -39,6 +39,8 @@
 [298. medium-length-of-string](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/298-medium-length-of-string)  
 [459. medium-flatten](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/459-medium-flatten)  
 [527. medium-append-to-object](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/527-medium-append-to-object)  
+[529. medium-absolute](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/529-medium-absolute)  
+
 
 
 
