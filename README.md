@@ -43,6 +43,8 @@
 [531. medium-string-to-union](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/531-medium-string-to-union)  
 [599. medium-merge](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/599-medium-merge)  
 [610. medium-camelcase](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/610-medium-camelcase)  
+[612. medium-kebabcase](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/612-medium-kebabcase)  
+
 
 
 
