@@ -46,6 +46,8 @@
 [612. medium-kebabcase](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/612-medium-kebabcase)  
 [645. medium-diff](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/645-medium-diff)  
 [949. medium-anyof](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/949-medium-anyof)  
+[1042. medium-isnever](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/1042-medium-isnever)  
+
 
 
 
