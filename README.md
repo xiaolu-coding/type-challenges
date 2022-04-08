@@ -48,8 +48,10 @@
 [949. medium-anyof](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/949-medium-anyof)  
 [1042. medium-isnever](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/1042-medium-isnever)  
 [1097. medium-isunion](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/1097-medium-isunion)  
-[1130-medium-replacekeys](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/1130-medium-replacekeys)  
-[1367-medium-remove-index-signature](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/1367-medium-remove-index-signature)  
+[1130. medium-replacekeys](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/1130-medium-replacekeys)  
+[1367. medium-remove-index-signature](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/1367-medium-remove-index-signature)  
+[1978-medium-percentage-parser](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/1978-medium-percentage-parser)  
+
 
 
 
