@@ -53,6 +53,8 @@
 [1978. medium-percentage-parser](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/1978-medium-percentage-parser) 
 [2070. medium-drop-char](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/2070-medium-drop-char)  
 [2257. medium-minusone](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/2257-medium-minusone)  
+[2595. medium-pickbytype](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/2595-medium-pickbytype)  
+
 
 
 
