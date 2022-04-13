@@ -56,6 +56,8 @@
 [2595. medium-pickbytype](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/2595-medium-pickbytype)  
 [2688. medium-startswith](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/2688-medium-startswith)  
 [2693. medium-endswith](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/2693-medium-endswith)  
+[2757. medium-partialbykeys](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/2757-medium-partialbykeys)  
+
 
 
 
