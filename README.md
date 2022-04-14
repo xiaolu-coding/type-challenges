@@ -59,6 +59,8 @@
 [2757. medium-partialbykeys](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/2757-medium-partialbykeys)  
 [2759. medium-requiredbykeys](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/2759-medium-requiredbykeys)  
 [2793. medium-mutable](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/2793-medium-mutable)  
+[2852. medium-omitbytype](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/2852-medium-omitbytype)  
+
 
 
 
