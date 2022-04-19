@@ -62,6 +62,8 @@
 [2852. medium-omitbytype](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/2852-medium-omitbytype)  
 [2946. medium-objectentries](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/2946-medium-objectentries)  
 [3062. medium-shift](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/3062-medium-shift)  
+[3188. medium-tuple-to-nested-object](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/3188-medium-tuple-to-nested-object)  
+
 
 
 
