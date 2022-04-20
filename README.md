@@ -65,6 +65,7 @@
 [3188. medium-tuple-to-nested-object](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/3188-medium-tuple-to-nested-object)  
 [3192. medium-reverse](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/3192-medium-reverse)  
 [3196. medium-flip-arguments](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/3196-medium-flip-arguments)  
+[3243. medium-flattendepth](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/3243-medium-flattendepth)  
 
 
 
