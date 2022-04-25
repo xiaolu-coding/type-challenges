@@ -67,6 +67,8 @@
 [3196. medium-flip-arguments](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/3196-medium-flip-arguments)  
 [3243. medium-flattendepth](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/3243-medium-flattendepth)  
 [3326. medium-bem-style-string](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/3326-medium-bem-style-stringh)  
+[3376. medium-inordertraversal](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/3376-medium-inordertraversal)  
+
 
 
 
