@@ -69,6 +69,8 @@
 [3326. medium-bem-style-string](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/3326-medium-bem-style-stringh)  
 [3376. medium-inordertraversal](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/3376-medium-inordertraversal)  
 [4179. medium-flip](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/4179-medium-flip)  
+[4182. medium-fibonacci-sequence](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/4182-medium-fibonacci-sequence)  
+
 
 
 
