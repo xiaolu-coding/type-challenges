@@ -72,6 +72,8 @@
 [4182. medium-fibonacci-sequence](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/4182-medium-fibonacci-sequence)  
 [4260. medium-nomiwase](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/4260-medium-nomiwase)  
 [4425. medium-greater-than](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/4425-medium-greater-than)  
+[4471. medium-zipn](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/4471-medium-zip)  
+
 
 
 
