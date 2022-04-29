@@ -75,6 +75,7 @@
 [4471. medium-zipn](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/4471-medium-zip)  
 [4484. medium-istuple](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/4484-medium-istuple)  
 [4499. medium-chunk](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/4499-medium-chunk)  
+[4518. medium-fill](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/4518-medium-fill)  
 
 
 
