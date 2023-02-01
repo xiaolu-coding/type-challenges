@@ -1,5 +1,6 @@
 type MyReturnType<T> = T extends (...args: any[]) => infer R ? R : never
 
+//! reStart End 
 // 这是考infer的使用，和上一题的infer入参差不多，而这次的infer是用在返回值
 
 // 1. T是否可以赋值给这个函数 =====>  T extends (...args: any[])
