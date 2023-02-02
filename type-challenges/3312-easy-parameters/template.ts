@@ -1,6 +1,11 @@
-type MyParameters<T extends (...args: any[]) => any> = T extends (...args: [...infer R]) => any ? [...R] : []
+// type MyParameters<T extends (...args: any[]) => any> = T extends (...args: [...infer R]) => any ? [...R] : []
+type MyParameters<T extends Function> = T extends (
+  ...args: infer Args
+) => unknown
+  ? Args
+  : []
 
-// 根据给的例子可知:  参数为typeof 一个函数 ====> T extends (...args: any[]) => any   
+// 根据给的例子可知:  参数为typeof 一个函数 ====> T extends (...args: any[]) => any
 
 // 使用js实现
 // function MyParameters(func) {
