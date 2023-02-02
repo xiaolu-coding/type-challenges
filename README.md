@@ -2,6 +2,10 @@
 
 练习ts类型体操
 
+## 模式匹配做提取
+
+TypeScript 类型的模式匹配是通过类型 extends 一个模式类型，把需要提取的部分放到通过 infer 声明的局部变量里，后面可以从这个局部变量拿到类型做各种后续处理
+
 ## easy
 
 [4. easy-pick](https://github.com/xiaolu-coding/type-challenges/tree/master/type-challenges/4-easy-pick)  
