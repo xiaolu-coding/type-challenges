@@ -2,6 +2,11 @@ type MyReadonly<T> = {
   readonly [P in keyof T] : T[P]
 }
 
+type FilterByValueType<Obj extends Record<string, any>, ValueType> = {
+  [Key in keyof Obj as Obj[Key] extends ValueType ? Key: never] :Obj[Key]
+}
+
+
 
 // 首先使用js来实现
 // function MyReadonly(obj) {
