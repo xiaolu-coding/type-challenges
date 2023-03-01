@@ -5,3 +5,7 @@ type DeepPromiseValueType<P extends Promise<unknown>> = P extends Promise<
     ? DeepPromiseValueType<ValueType>
     : ValueType
   : never
+
+type DeepPromiseValueType2<T> = T extends Promise<infer ValueType>
+  ? DeepPromiseValueType2<ValueType>
+  : T
