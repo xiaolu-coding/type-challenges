@@ -1,4 +1,4 @@
-type Push<T extends any[], U> = [...T, U]
+type Push<Arr extends unknown[], Ele> = [...Arr, Ele]
 
 // 使用js来实现
 
