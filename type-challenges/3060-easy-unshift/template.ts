@@ -1,4 +1,4 @@
-type Unshift<T extends any[], U> = [U, ...T]
+type Unshift<Arr extends unknown[], Ele> = [Ele, ...Arr]
 
 // 使用js来实现
 // function Unshift(arr: any[], traget: any) {
