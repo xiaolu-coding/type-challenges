@@ -1,9 +1,18 @@
-type DeepReadonly<T> = {
-  readonly [P in keyof T]: T[P] extends Object
-    ? T[P] extends Function
-      ? T[P]
-      : DeepReadonly<T[P]>
-    : T[P]
+// type DeepReadonly<T> = {
+//   readonly [P in keyof T]: T[P] extends Object
+//     ? T[P] extends Function
+//       ? T[P]
+//       : DeepReadonly<T[P]>
+//     : T[P]
+// }
+
+type DeepReadonly<Obj extends object> = {
+  readonly [Key in keyof Obj]: 
+    Obj[Key] extends object
+      ? Obj[Key] extends Function
+        ? Obj[Key]
+        : DeepReadonly<Obj[Key]>
+      : Obj[Key]  
 }
 
 // 实现js来实现
