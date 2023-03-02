@@ -34,7 +34,13 @@ type Divide<
   ? CountArr["length"]
   : Divide<Subtract<Num1, Num2>, Num2, [unknown, ...CountArr]>
 
+type StrLen<Str extends string, CountArr extends unknown[] = []> =
+  Str extends `${string}${infer Rest}`
+    ? StrLen<Rest, [...CountArr, unknown]>
+    : CountArr['length']
+
 type a = Add<52, 3>
 type b = Subtract<52, 3>
 type c = Mutiply<3, 6>
 type d = Divide<6, 3>
+type e = StrLen<'ceshi'>
