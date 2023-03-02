@@ -26,6 +26,15 @@ type Mutiply<
   ? ResultArr["length"]
   : Mutiply<Num1, Subtract<Num2, 1>, [...BuildArray<Num1>, ...ResultArr]>
 
+type Divide<
+  Num1 extends number,
+  Num2 extends number,
+  CountArr extends unknown[] = []
+> = Num1 extends 0
+  ? CountArr["length"]
+  : Divide<Subtract<Num1, Num2>, Num2, [unknown, ...CountArr]>
+
 type a = Add<52, 3>
 type b = Subtract<52, 3>
 type c = Mutiply<3, 6>
+type d = Divide<6, 3>
